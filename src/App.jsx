@@ -56,7 +56,7 @@ function App() {
         >
           🎉🎂✨ Happy Birthday, Bouchra! ✨🎂🎉
           <br />
-          May your day be as bright as a supernova 🚀❤️
+          May your day be as bright as a supernova 🚀🚀
           <br />
           Rah ma3rftx wax kay3jbek t7tafli b birthday dyalk  
           <br />
